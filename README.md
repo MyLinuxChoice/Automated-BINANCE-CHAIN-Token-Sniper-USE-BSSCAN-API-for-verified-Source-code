@@ -11,7 +11,11 @@ The aim of the Automated Buy/Sell BSC Token Sniper is to buy new tokens with a s
 -	If it is a potential honeypot
 -	That the PancakeSwap v1 router address is not being used.
  
+## Screenshots
 
+![Successful Snipe](docs/assets/successful_snipe.png)
+
+![Successful Sell/Sell Mode](docs/assets/successful_sell_and_sell_mode.png)
 
 # Automated BSC Token Sniper - Buy and Sell 
 An advanced python bot which automatically buys tokens on the Binance Smart Chain as soon as it detects that a liquidity pair has been created and then sells the tokens when your desired profit threshold is met. 
@@ -96,11 +100,7 @@ The bot isn’t sniping that fast (eg. couple seconds between detection and buyi
 The bot isn't successfully selling my tokens when they hit the desired profit.
 - This is often due to there being not enough liquidity in the pool for that token. The bot will continue to retry selling the coin at regular intervals until it's successful.
 
-## Screenshots
 
-![Successful Snipe](docs/assets/successful_snipe.png)
-
-![Successful Sell/Sell Mode](docs/assets/successful_sell_and_sell_mode.png)
 
 
 
