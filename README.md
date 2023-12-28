@@ -10,7 +10,7 @@ The aim of the Automated Buy/Sell BSC Token Sniper is to buy new tokens with a s
 -	If a mint function exists
 -	If it is a potential honeypot
 -	That the PancakeSwap v1 router address is not being used.
- 
+  
 ## Screenshots
 
 ![Successful Snipe](docs/assets/successful_snipe.png)
